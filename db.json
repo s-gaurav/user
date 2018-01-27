@@ -1,5 +1,10 @@
-[
+{
+"posts": [
 {"emailaddress":"gaurav.saxena.2@aon.com","firstname":"Gaurav","lastname":"Saxena","title":"Manager II","photofilename":"temp_ABB55201ah82492_MThumb.jpg","marketdivision":"Information Technology"}, 
 {"emailaddress":"priyanka.makkar@aon.com","firstname":"Priyanka","lastname":"Makkar","title":"SE II","photofilename":"temp_ABB55201ah82492_MThumb.jpg","marketdivision":"Information Technology"},
 {"emailaddress":"dinesh.negi@aon.com","firstname":"Dinesh","lastname":"Negi","title":"DA II","photofilename":"temp_ABB55201ah82492_MThumb.jpg","marketdivision":"Information Technology"}
-]
+],
+"profile": {
+    "name": "typicode"
+  }
+}
